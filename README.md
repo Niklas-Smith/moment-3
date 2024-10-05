@@ -1,5 +1,7 @@
 ## Moment 3 Versionshantering med Git  
-_uppgiften_ gick ut på att man skulle komma igång med git.
+_uppgiften_ gick ut på att man skulle komma igång med git.  
+Det ingick att förstå vad man använder **_versionshantering_** till.   
+Sedan att förstå hur man lägger upp detta på github i form av repositories.
 
 **Här är en kort lista på hur jag kom igång med git**
 
